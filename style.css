@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: orange;
+}
+
+div {
+    border: 1px solid aliceblue;
+/*
+    border-width: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+*/
+}
+
+.latin {
+    color: #64fe2e;
+}
+
+.second {
+    font-style: oblique;
+}
+
+#special {
+    color: aliceblue;
+}
+
+#dolphin {
+    font-style: italic;
+    color: #0040ff;
+}
+
+li {
+    text-align: center;
+    font-size: 20px;
+}
+
+li.why {
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+
+li#not{
+    font-family: serif;
+}
